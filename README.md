@@ -6,6 +6,8 @@ Implementation and comparison of three reinforcement learning algorithms impleme
 Algorithms are tested in a racetrack environment, with the aim of training an agent to complete the race course at speed without hitting the walls.
 
 ## Repo
-Environment is coded in `racetrack_env`
+Environment is coded in `racetrack_env`.
+
 `track.txt` encodes the layout of the track.
+
 Code for RL algorithm implementations is shown in `rl_agents.ipynb`, including a thorough discussion of the differences between the algorithms, optimization techniques, and the final results.
